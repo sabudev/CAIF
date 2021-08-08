@@ -1,4 +1,4 @@
-budget,movie_id,original_language,original_title,popularity,release_date,revenue,runtime,tagline,title,vote_average,vote_count
+budget,tmdb_id,original_language,original_title,popularity,release_date,revenue,runtime,tagline,title,vote_average,vote_count
 237000000,19995,en,Avatar,150.437577,12/10/09,2787965087,162,Enter the World of Pandora.,Avatar,7.2,11800
 300000000,285,en,Pirates of the Caribbean: At World's End,139.082615,5/19/07,961000000,169,"At the end of the world, the adventure begins.",Pirates of the Caribbean: At World's End,6.9,4500
 245000000,206647,en,Spectre,107.376788,10/26/15,880674609,148,A Plan No One Escapes,Spectre,6.3,4466
